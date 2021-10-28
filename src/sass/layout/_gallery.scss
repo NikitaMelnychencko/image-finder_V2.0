@@ -18,7 +18,7 @@
 .photo-card__img {
   height: 310px;
   width: 310px;
-
+  cursor: pointer;
   @media screen and (min-width: $desktop-up) {
     height: 410px;
     width: 410px;
